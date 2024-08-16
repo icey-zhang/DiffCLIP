@@ -1,0 +1,15 @@
+0 Healthy grass
+1 Stressed grass
+2 Synthetic grass
+3 Tree
+4 Soil
+5 Water
+6 Residential
+7 Commercial
+8 Road
+9 Highway
+10 Railway
+11 Park lot 1
+12 Park lot 2
+13 Tennis court
+14 Running track
