@@ -35,7 +35,11 @@ conda create -n DiffCLIP python=3.9.17
 conda activate DiffCLIP
 ```
 
-
+***install some necessary package***
+```bash
+pip install pytorch
+......
+```
 
 ### Prepare the dataset
 
