@@ -1,8 +1,7 @@
 <div align="center">
 <h1> DiffCLIP </h1>
 <h3> DiffCLIP: Few-shot Language-driven Multimodal Classifier </h3>
-
-<h3> AAAI 2025
+<h4> AAAI 2025</h4>
   
 </div>
 
