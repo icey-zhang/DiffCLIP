@@ -73,7 +73,7 @@ If our code is helpful to you, please cite:
 
 @inproceedings{zhange2025DiffCLIP,
   title={DiffCLIP: Few-shot Language-driven Multimodal Classifier },
-  author={Zhang, Jiaqing and Cao, Mingxiang and Jiang, Kai and Yang, Xue},
+  author={Zhang, Jiaqing and Cao, Mingxiang and Xue Yang and Jiang, Kai and Yunsong Li},
   booktitle={AAAI2025}
 }
 
